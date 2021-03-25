@@ -1,5 +1,7 @@
 A simple website I created for my wife before our wedding, to reflect on memories we've shared over the years.
 
+![](screenshots/demo.gif)
+
 ### Setup
 
 ```sh
