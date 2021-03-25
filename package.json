@@ -31,7 +31,6 @@
     "sirv": "^1.0.11",
     "svelte": "^3.0.0",
     "svelte-check": "^1.0.0",
-    "svelte-lazy": "^1.0.8",
     "svelte-preprocess": "^4.6.9",
     "svelte-routing": "^1.5.0",
     "tailwindcss": "^2.0.3",
