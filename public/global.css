@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Wedding Chardonnay";
+    src: url("/wedding.ttf") format("truetype");
+    font-style: normal;
+}
+
+.wedding-font {
+    font-family: "Wedding Chardonnay";
+}
+
+body {
+    background-color: #fdf2f8;
+}

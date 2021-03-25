@@ -1,0 +1,10 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+venv/
+.vscode/
+
+.env
+public/images/
